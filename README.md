@@ -13,7 +13,5 @@ import requests<br />
 list = requests.post('http://leethere.herokuapp.com/stock',data='list').text<br />
 print(list)
 // IT WILL RETURN LISTS OF STOCK
-<br />
-<br />
 ```
 #SIMPLE BETTER FASTER
