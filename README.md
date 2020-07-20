@@ -15,4 +15,5 @@ print(list)
 // IT WILL RETURN LISTS OF STOCK
 <br />
 <br />
+```
 #SIMPLE BETTER FASTER
