@@ -9,8 +9,8 @@ Detailedstock : Returns Dictionary Consist Of-<br />
 Price,Name,Volume,Last-Traded-Price And Many More<br />
 #Example in Python<br />**                                                                                                                                           
 ```
-import requests<br />
-list = requests.post('http://leethere.herokuapp.com/stock',data='list').text<br />
+import request
+list = requests.post('http://leethere.herokuapp.com/stock',data='list').text
 print(list)
 // IT WILL RETURN LISTS OF STOCK
 ```
