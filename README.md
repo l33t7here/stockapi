@@ -2,7 +2,7 @@
 Api Link = http://leethere.herokuapp.com/stock <br />
 Method = Post<br />
 Accept = URLENCODED (it does not accept json format)<br />
-#Commands
+#Commands<br />
 List : Returns List Of Stocks <br />
 Price : Returns Stocks List With Price<br />
 Detailedstock : Returns Dictionary Consist Of-<br />
